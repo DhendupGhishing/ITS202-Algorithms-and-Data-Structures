@@ -1,0 +1,7 @@
+Implement the following method using array and Linked List on asking the user to enqueue and dequeue the integers and to display the elements in the Queue.
+enqueue(e): Add element e to the back of the Queue Q.
+dequeue(): Remove and return the first element from queue Q.
+first(): Return a reference to the front of the queue Q, without removing it; an
+error occurs if the queue is empty
+is_empty(): Returns true if queue Q does not contain any elements.
+len(Q): Return the number of elements in queue Q;
